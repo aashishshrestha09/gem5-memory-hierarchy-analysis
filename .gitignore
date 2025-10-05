@@ -1,0 +1,13 @@
+.DS_Store
+*.swp
+*.swo
+*~
+*.o
+*.out
+src/matrix_mult
+.vscode/
+.idea/
+.sublime-
+*.tmp
+*.logresults/**/*.txt
+!results/.gitkeep
